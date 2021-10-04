@@ -1,0 +1,7 @@
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.csproj.AssemblyReference.cache
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.AssemblyInfoInputs.cache
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.AssemblyInfo.cs
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.csproj.CoreCompileInputs.cache
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\melys\Documents\LocalRepo\conectchallenge\Organize.API\obj\Debug\net5.0\Organize.API.MvcApplicationPartsAssemblyInfo.cache
